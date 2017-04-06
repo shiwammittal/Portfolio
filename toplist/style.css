@@ -13,3 +13,6 @@
 .description {
 	max-width: 705px;
 }
+.app {
+    display: flex;
+}
